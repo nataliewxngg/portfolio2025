@@ -1,4 +1,4 @@
-import profileImage from '../assets/profile-pic.png';
+import profileImage from '../assets/profile-pic.jpg';
 
 import chapterCreator from '../components/chapter'
 import skillCardCreator from '../components/skillCard';
